@@ -1,3 +1,0 @@
-Database name: NYT_TopStories
-
-IP address: 34.199.88.98
